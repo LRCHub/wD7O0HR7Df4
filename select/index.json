@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "新しい世界",
+  "base_artist": "サカナクション",
+  "createdAt": "2026-01-05T15:21:13.071157Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "新しい世界",
+      "artist": "sakanaction",
+      "has_synced": false,
+      "path": "select/01_新しい世界_sakanaction.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Atarashii Sekai [新しい世界]",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/02_Atarashii_Sekai_[新しい世界]_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "新しい世界",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/03_新しい世界_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "New World (新しい世界 Atarashii Sekai)",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/04_New_World_(新しい世界_Atarashii_Sekai)_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "新しい世界",
+      "artist": "乃木坂46",
+      "has_synced": true,
+      "path": "select/05_新しい世界_乃木坂46.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "新しい世界",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/06_新しい世界_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ホール・ニュー・ワールド（新しい世界）",
+      "artist": "福井舞",
+      "has_synced": false,
+      "path": "select/07_ホール・ニュー・ワールド(新しい世界)_福井舞.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "新しい世界 〜Acoustic&woodbass version〜",
+      "artist": "marble",
+      "has_synced": false,
+      "path": "select/08_新しい世界_〜Acoustic&woodbass_version〜_marble.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "新しい世界",
+      "artist": "ASIAN KUNG‐FU GENERATION",
+      "has_synced": true,
+      "path": "select/09_新しい世界_ASIAN_KUNG‐FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "新しい世界",
+      "artist": "乃木坂46",
+      "has_synced": true,
+      "path": "select/10_新しい世界_乃木坂46.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "新しい世界",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/pl_01_新しい世界_サカナクション.txt"
+    }
+  ]
+}
